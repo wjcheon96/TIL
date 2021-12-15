@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TIL.iml" filepath="$PROJECT_DIR$/.idea/TIL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_01/Java_01.iml" filepath="$PROJECT_DIR$/Java_01/Java_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_02/Java_02.iml" filepath="$PROJECT_DIR$/Java_02/Java_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_04/Java_04.iml" filepath="$PROJECT_DIR$/Java_04/Java_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_05/Java_05.iml" filepath="$PROJECT_DIR$/Java_05/Java_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TIL.iml" filepath="$PROJECT_DIR$/TIL.iml" />
     </modules>
   </component>
 </project>
