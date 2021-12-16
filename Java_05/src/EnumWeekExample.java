@@ -1,5 +1,4 @@
 import exam01_enum.Week;
-
 import java.util.Calendar;
 
 public class EnumWeekExample {
@@ -25,7 +24,6 @@ public class EnumWeekExample {
             case 7:
                 today = Week.SATURDAY; break;
         }
-
         System.out.println("오늘 요일: " + today);
 
         if(today == Week.SUNDAY){

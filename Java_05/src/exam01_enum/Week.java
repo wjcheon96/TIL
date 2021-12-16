@@ -1,5 +1,6 @@
 package exam01_enum;
 
+
 public enum Week {
     MONDAY,
     TUESDAY,
