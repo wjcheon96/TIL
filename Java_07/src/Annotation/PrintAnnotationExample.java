@@ -27,7 +27,7 @@ public class PrintAnnotationExample {
                 } catch (Exception e) {
                 }
                 System.out.println();
-            }
-        }
+    }
+}
     }
 }
