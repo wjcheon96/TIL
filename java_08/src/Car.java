@@ -1,4 +1,4 @@
-public class car {
+public class Car {
     //필드
     Tire frontLeftTire = new Tire("앞 왼쪽",6);
     Tire frontRightTire = new Tire("앞 오른쪽",2);
